@@ -1,0 +1,8 @@
+Labname cryp-bsic-dh
+
+Student              |         Connect |      Public_Key |     Shared_keyB |     Shared_keyA |
+==================== | =============== | =============== | =============== | =============== |
+B22DCAT136           |               Y |               Y |               Y |               Y |
+What is automatically assessed for this lab:
+
+

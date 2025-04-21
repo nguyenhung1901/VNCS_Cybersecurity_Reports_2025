@@ -1,0 +1,8 @@
+Labname denyhost
+
+Student              |      deny_valid |    deny_invalid |      hank_login |     hosts_allow |
+==================== | =============== | =============== | =============== | =============== |
+B22DCAT136           |               9 |               3 |               2 |               Y |
+What is automatically assessed for this lab:
+
+

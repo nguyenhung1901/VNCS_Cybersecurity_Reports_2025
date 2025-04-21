@@ -1,0 +1,8 @@
+Labname cryp-app-ca_server
+
+Student              |      signingCSR |       createPKI |        createCA |           addCA |    createPriKey |       createCSR |
+==================== | =============== | =============== | =============== | =============== | =============== | =============== |
+B22DCAT136           |               Y |               Y |               Y |               Y |               Y |               Y |
+What is automatically assessed for this lab:
+
+
